@@ -47,9 +47,10 @@ body {
 /*for landing page background color*/
 #landing {
   background-color: #B0C4DE;
-  min-height: 100vh;
+  /*min-height: 100vh;*/
   display: flex;
   align-items: stretch;
+  padding: 40px 0;
 }
 
 /*landing page text*/
